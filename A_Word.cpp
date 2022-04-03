@@ -28,6 +28,7 @@ void solve()
             ++low;
         }
     }
+    
     if (up > low)
     {
         for (int i = 0; i < s.size(); ++i)
