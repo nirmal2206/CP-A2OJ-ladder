@@ -26,14 +26,14 @@ void solve()
         for (int k = 0; k <= i; k++)
         {
             if (i == 0)
-                cout << 0;
+                cout << i;
             else
                 cout << k << " ";
         }
         for (int k = i - 1; k >= 0; k--)
         {
             if (k == 0)
-                cout << 0;
+                cout << k;
             else
                 cout << k << " ";
         }
@@ -49,14 +49,14 @@ void solve()
         for (int k = 0; k <= i; k++)
         {
             if (i == 0)
-                cout << 0;
+                cout << i;
             else
                 cout << k << " ";
         }
         for (int k = i - 1; k >= 0; k--)
         {
             if (k == 0)
-                cout << 0;
+                cout << k;
             else
                 cout << k << " ";
         }
